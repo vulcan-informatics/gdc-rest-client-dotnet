@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GdcRestClient", "GdcRestClient.csproj", "{AC9F9782-5325-4BF5-9C66-884654ED0340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GdcClientCLI", "GdcClientCLI\GdcClientCLI.csproj", "{0598BDE8-0E09-45AE-B02D-F5C6CB8AB75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9F9782-5325-4BF5-9C66-884654ED0340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9F9782-5325-4BF5-9C66-884654ED0340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9F9782-5325-4BF5-9C66-884654ED0340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9F9782-5325-4BF5-9C66-884654ED0340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0598BDE8-0E09-45AE-B02D-F5C6CB8AB75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0598BDE8-0E09-45AE-B02D-F5C6CB8AB75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0598BDE8-0E09-45AE-B02D-F5C6CB8AB75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0598BDE8-0E09-45AE-B02D-F5C6CB8AB75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -8,3 +8,4 @@ script:
  - dotnet restore
  - dotnet build -c Release
  - dotnet test GdcRestClient.Tests
+ - dotnet pack ./GdcRestClient -c Release -o ./artifacts --version-suffix=alpha /p:PackageVersion=0.0.$TRAVIS_BUILD_NUMBER

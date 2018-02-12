@@ -7,3 +7,4 @@ solution: GdcRestClient.sln
 script:
  - dotnet restore
  - dotnet build -c Release
+ - dotnet test GdcRestClient.Tests
